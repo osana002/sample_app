@@ -8,11 +8,13 @@ $gray-medium-light: #eaeaea;
 /* universal */
 
 body {
+  background: url(sea.jpg) center center / cover no-repeat fixed;
   padding-top: 60px;
 }
 
 section {
   overflow: auto;
+   background-color: transparent;
 }
 
 textarea {
