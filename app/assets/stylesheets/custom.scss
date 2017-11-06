@@ -8,7 +8,9 @@ $gray-medium-light: #eaeaea;
 /* universal */
 
 body {
-  background: url(sea.jpg) center center / cover no-repeat fixed;
+  
+  background-image: url(/image/sea.jpg) center center / cover no-repeat fixed;
+  /* background: url(sea.jpg) center center / cover no-repeat fixed;*/
   padding-top: 60px;
 }
 
